@@ -10,7 +10,7 @@ $results = mysqli_query( $connect, "INSERT INTO `ticket booking` ( `NAME`, `APPT
 
 echo "booking done";
 ?>
-<a href='booking_input.php'>
+<a href='appt_input.php'>
         <button class="GFG">
             Back
         </button>

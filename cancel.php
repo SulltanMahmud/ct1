@@ -7,7 +7,7 @@ if($results){
     echo "canceled successfully";
 }?>
 
-<a href='booking_input.php'>
+<a href='appt_input.php'>
         <button class="GFG">
             Back
         </button>
